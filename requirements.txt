@@ -1,4 +1,0 @@
-google-cloud-aiplatform
-flask
-flask-cors
-marko
